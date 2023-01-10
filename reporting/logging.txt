@@ -1,10 +1,2 @@
 Logging
-
-10/01/2023 11:09:18,PCPROPointCloud Processing Pro 0.3.1,MSI,Cambridge,England,United Kingdom
-None,10/01/2023 11:15:37,0.0.0,MSI,Cambridge,England,United Kingdom
-451257315.5,10/01/2023 11:24:39,0.0.0,MSI,Cambridge,England,United Kingdom
-451257315.5,10/01/2023 11:34:38,PointCloud Processing Pro 0.3.1,MSI,Cambridge,England,United Kingdom
-451257315.5,10/01/2023 11:54:43,0.0.0,MSI,Cambridge,England,United Kingdom
-451257315.5,10/01/2023 11:55:17,PointCloud Processing Pro 0.3.1,MSI,Cambridge,England,United Kingdom
-451257315.5,10/01/2023 11:55:45,PointCloud Processing Pro 0.3.1,MSI,Cambridge,England,United Kingdom
 451257315.5,10/01/2023 11:56:11,PointCloud Processing Pro 0.3.1,MSI,Cambridge,England,United Kingdom
