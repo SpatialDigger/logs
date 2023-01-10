@@ -1,2 +1,2 @@
 Logging
-/nnew new
+/nnew new/nnew
