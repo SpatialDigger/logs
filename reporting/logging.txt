@@ -2,3 +2,4 @@ Logging
 /nnew new/nnew
 new
 MSI 192.168.1.102
+PCPRO0.0.0MSI 192.168.1.102
