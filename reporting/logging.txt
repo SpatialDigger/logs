@@ -148,3 +148,4 @@ Logging
 10608759117.0,31/03/2023 16:22:36,PointCloud Processing Pro 0.3.1,WIN-KF6LS9STP98,Skutari,Istanbul,Turkey
 10608759117.0,31/03/2023 21:49:43,PointCloud Processing Pro 0.3.1,WIN-KF6LS9STP98,Skutari,Istanbul,Turkey
 10608759117.0,31/03/2023 22:14:59,PointCloud Processing Pro 0.3.1,WIN-KF6LS9STP98,Skutari,Istanbul,Turkey
+9758760221.0,20/05/2023 17:54:45,PointCloud Processing Pro 0.3.1,WIN-KF6LS9STP98,Izmir,Izmir,Turkey
