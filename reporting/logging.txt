@@ -153,3 +153,4 @@ Logging
 9758760221.0,22/05/2023 12:33:02,PointCloud Processing Pro 0.3.1,WIN-KF6LS9STP98,Izmir,Izmir,Turkey
 9758760221.0,22/05/2023 13:07:52,PointCloud Processing Pro 0.3.1,WIN-KF6LS9STP98,Izmir,Izmir,Turkey
 9758760221.0,30/05/2023 09:04:30,PointCloud Processing Pro 0.3.1,WIN-KF6LS9STP98,Izmir,İzmir Province,Turkey
+9758760221.0,30/05/2023 09:33:27,PointCloud Processing Pro 0.3.1,WIN-KF6LS9STP98,Izmir,İzmir Province,Turkey
