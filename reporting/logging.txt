@@ -740,3 +740,4 @@ Logging
 10608759117.0,12/02/2024 07:59:28,PointCloud Processing Pro 0.4.0,WIN-KF6LS9STP98,None,None,None
 10608759117.0,12/02/2024 08:00:16,PointCloud Processing Pro 0.4.0,WIN-KF6LS9STP98,None,None,None
 10608759117.0,12/02/2024 08:01:02,PointCloud Processing Pro 0.4.0,WIN-KF6LS9STP98,None,None,None
+10608759117.0,12/02/2024 08:20:16,PointCloud Processing Pro 0.4.0,WIN-KF6LS9STP98,Istanbul,Istanbul,Türkiye
